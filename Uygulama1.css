@@ -1,0 +1,237 @@
+body{
+background-color: blueviolet;
+margin:auto;
+}
+.arkaplan{
+    width: 1000px;
+    height:1100px;
+    border:2px solid palevioletred;
+    margin:auto;
+}
+.beyazkutu{
+    background-color: white;
+    margin: auto;
+    width:1000px;
+    height:1100px;
+}
+.resim{
+    width:990px;
+    height:200px;
+    margin:auto;
+    margin:5px 5px 5px 5px;
+}
+.logo{
+    width:300px;
+    height:75px;
+    margin:0px 5px 5px 0px;
+    float: left;
+}
+.butonlar{
+    width:990px;
+    height:75px;
+    background-color: brown ;
+    margin: 5px 5px 5px 5px;
+    color:white;
+}
+.anasyf{
+    width:96px;
+    height:75px;
+    float: left;
+    line-height:75px;
+    text-align: center;
+}
+.KTP{
+    width:96px;
+    height:75px;
+    float: left;
+    line-height:75px;
+    text-align: center;
+}
+.KRTY{
+    width:96px;
+    height:75px;
+    float: left;
+    line-height:75px;
+    text-align: center;
+}
+.SPTM{
+    width:96px;
+    height:75px;
+    float: left;
+    line-height:75px;
+    text-align: center;
+}
+.İLTSM{
+    width:96px;
+    height:75px;
+    float: left;
+    line-height:75px;
+    text-align: center;
+    margin:0 0 0 20px;
+}
+.yazi{
+    background-color: darkmagenta;
+    color: white;
+    text-align: center;
+    width:172px;
+    height:50px;
+}
+.k1{
+    width: 172px;
+    height:200px;
+}
+.k2{
+    width: 172px;
+    height:200px;
+}
+.k3{
+    width: 172px;
+    height:200px;
+}
+.k4{
+    width: 172px;
+    height:200px;
+}
+.k5{
+    width: 172px;
+    height:200px;
+}
+.Kitap1{
+    width:172px;
+    height:250px;
+    border:1px solid black;
+    float: left;
+    margin: 0px 0px 0px 25px;
+}
+.Kitap2{
+    width:172px;
+    height:250px;
+    border:1px solid black;
+    margin:0px 0px 0px 20px;
+    float: left;
+}
+.Kitap3{
+    width:172px;
+    height:250px;
+    border:1px solid black;
+    margin:0px 0px 0px 20px;
+    float: left;
+}
+.Kitap4{
+    width:172px;
+    height:250px;
+    border:1px solid black;
+    margin:0px 0px 0px 20px;
+    float: left;
+}
+.Kitap5{
+    width:172px;
+    height:250px;
+    border:1px solid black;
+    margin:0px 0px 0px 20px;
+    float: left;
+}
+.Doğan{
+    width:230px;
+    height:410px;
+    border-radius: 10px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 10px 10px 20px;
+}
+.Sabahattin{
+    width:230px;
+    height:410px;
+    border-radius: 10px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 10px 10px 0px;
+}
+.Peyami{
+    width:230px;
+    height:410px;
+    border-radius: 10px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 10px 10px 0px;
+}
+.AYŞE{
+    width:230px;
+    height:410px;
+    border-radius: 10px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 10px 10px 0px;
+    
+}
+.Yazarlar
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin: 0px 10px 5px 10px;
+}
+.dc{
+    width:210px;
+    height:150px;
+    margin: 10px 10px 0px 10px;
+}
+.SA{
+    width:210px;
+    height:150px;
+    margin: 10px 10px 0px 10px;
+}
+.PS{
+    width:210px;
+    height:150px;
+    margin: 10px 10px 0px 10px;
+}
+.AY{
+    width:210px;
+    height:150px;
+    margin: 10px 10px 0px 10px;
+}
+.anasyf:hover{
+    background-color: darkgreen;
+    color:azure;
+    transform: translateX(5);
+    transition: 0.5s;
+}
+.KTP:hover{
+    background-color: chartreuse;
+    color:azure;
+    transform: translateX(5);
+    transition: 0.5s;
+}
+.KRTY:hover{
+    background-color: coral;
+    color:azure;
+    transform: translateX(5);
+    transition: 0.5s;
+}
+.SPTM:hover{
+    background-color: darkblue;
+    color:azure;
+    transform: translateX(5);
+    transition: 0.5s;
+}
+.İLTSM:hover{
+   background-color: darkorange;
+    color:azure;
+    transform: translateX(5);
+    transition: 0.5s;
+}
+.Yazar{
+   margin:10px;
+}
+.uyari{
+    background-color: blue;
+    color: greenyellow;
+    font-family: cursive;
+    width:1000px;
+    height:20px;
+    text-align:center;
+}
+
+
